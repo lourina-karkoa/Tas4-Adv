@@ -1,0 +1,13 @@
+.lkborder-color{
+    border-right: 3px solid var(--borderSec9) !important;
+    border-left: 3px solid var(--borderSec9) !important;
+}
+.lk-mark{
+    clip-path: polygon(13% 0, 42% 0, 100% 59%, 100% 100%, 100% 100%, 0 0)!important;
+    width: 95px !important;
+    height: 80px !important;
+    right: 24px !important;
+}
+.lk-mark p{
+    rotate: 40deg;
+}

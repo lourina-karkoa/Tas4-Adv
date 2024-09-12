@@ -1,0 +1,15 @@
+.lk-slider-card .lk-slider-img{
+    height: 135px !important;
+}
+.lk-slider-border{
+    transition: 0.4s all ease-in-out !important;
+}
+.lk-slider-border:hover{
+    transform:scale(1.1) !important;
+    height: 150px !important;
+    border: 6px solid var(--color-comman) !important;
+}
+.lk-slider-border:hover .lk-slider-img{
+    height: 160px !important;
+    overflow-y: hidden !important;
+}

@@ -1,0 +1,32 @@
+import { FaQuoteLeft, FaQuoteRight } from "react-icons/fa"
+import testimonials5 from './../../assets/imges/testimonials/testimonials-5.jpg'
+import testimonials4 from './../../assets/imges/testimonials/testimonials-4.jpg'
+import testimonials3 from './../../assets/imges/testimonials/testimonials-3.jpg'
+import testimonials2 from './../../assets/imges/testimonials/testimonials-2.jpg'
+import testimonials1 from './../../assets/imges/testimonials/testimonials-1.jpg'
+export const dataSec10F=[
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:"Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.",img:testimonials3,title:'Jena Karlis',textS:'Store Oner'},
+    {iconQutR:<FaQuoteLeft className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:"Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam",img:testimonials2,title:'Matt Brandon',textS:'Freelanser'},
+    {iconQutR:<FaQuoteLeft className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:"Quis quorum aliqua sint quem legam fore sunt eram iure aliqua veniam tempor nostrud veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.",img:testimonials1,title:'John Larson',textS:'Enterpreneur'},
+  ]
+export const dataSec10S=[
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation',img:testimonials5,title:'Walter White',textS:'Neruosyrgon'},
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'Aliquam ultrices sagittis orci a scelerisque purus. Amet purus gravida quis blandit turpis cursus in. Ut tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce.',img:testimonials1,title:'Sarah Johoson',textS:'Cardiology'},
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'Non blandit massa enim nec. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim tortor at auctor',img:testimonials3,title:'Amanda Jepson',textS:'Anesthesiologist'},
+  ]
+export const dataSec10TH=[
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'Vivamus quis enim non est tincidunt laoreet. Aenean auctor libero nec risus vestibulum, vel facilisis lorem gravida. Praesent eu felis ligula,malesuada ipsum nulla facilisi praesent.',img:testimonials4,title:'William Anderson',textS:'Store Oner'},
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat duis aute irure .',img:testimonials2,title:'Matt Brandon',textS:'Freelanser'},
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto.',img:testimonials5,title:'Sarah Johoson',textS:'Neruosyrgon'},
+  ]
+export const dataSec10E=[
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'Vivamus quis enim non est tincidunt laoreet. Aenean auctor libero nec risus vestibulum, vel facilisis lorem gravida. Praesent eu felis ligula,malesuada ipsum nulla facilisi praesent.',img:testimonials1,title:'William Anderson',textS:'Store Oner'},
+    {iconQutR:<FaQuoteLeft className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:"Quis quorum aliqua sint quem legam fore sunt eram iure aliqua veniam tempor nostrud veniam sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.",img:testimonials4,title:'John Larson',textS:'Enterpreneur'},
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'Non blandit massa enim nec. Ipsum dolor sit amet consectetur adipiscing elit duis tristique. Vestibulum lorem sed risus ultricies tristique nulla aliquet enim tortor at auctor',img:testimonials3,title:'Amanda Jepson',textS:'Anesthesiologist'},
+  ]
+export const dataSec10N=[
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:"Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.",img:testimonials2,title:'Jena Karlis',textS:'Store Oner'},
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'Vivamus quis enim non est tincidunt laoreet. Aenean auctor libero nec risus vestibulum, vel facilisis lorem gravida. Praesent eu felis ligula,malesuada ipsum nulla facilisi praesent.',img:testimonials4,title:'William Anderson',textS:'Store Oner'},
+    {iconQutR:<FaQuoteLeft  className='me-2 text-color mb-2 opacity-50'/>,iconQutL:<FaQuoteRight className='ms-2 text-color mt-2 opacity-50'/>,textF:'"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation',img:testimonials5,title:'Walter White',textS:'Neruosyrgon'},
+  ]
+  

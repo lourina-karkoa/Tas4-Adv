@@ -1,0 +1,12 @@
+.lk-slider-card .carousel-indicators [data-bs-target]{
+    border: 1px solid var(--color-comman);
+}
+.lk-slider-card .carousel-indicators{
+    bottom: -40px !important;
+}
+.lk-slider-card .lk-slider-row{
+    height: 320px !important;
+}
+.lk-slider-card .carousel .carousel-control-next,.lk-slider-card .carousel .carousel-control-prev{
+    display: none !important;
+}

@@ -1,0 +1,28 @@
+.nav-link{
+    color: var(--text-nav) !important;
+    font-weight: 700 !important;
+}
+.nav-pills .nav-link {
+    border: 0px !important;
+    border-right:3px solid var(--borderSec9) !important;
+    border-radius: 0 !important;
+}
+.nav-pills .nav-link.active{
+    color: var(--color-comman) !important;
+    background-color: white !important;
+    border-right:3px solid var(--color-comman) !important;
+    border-radius: 0 !important;
+}
+.lk-tabs-m{
+    width:75% !important;
+}
+@media (max-width:1200px) {
+    .lk-tabs-m{
+        margin-left: 0 !important;
+    }
+}
+@media (max-width:992px) {
+    .lk-tabs-m{
+        width: 100% !important;
+    }
+}

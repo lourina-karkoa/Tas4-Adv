@@ -1,0 +1,5 @@
+.border-7{
+    border-bottom:3px solid var(--background) !important;
+    width: 50px !important;
+    height: 2px !important;
+}

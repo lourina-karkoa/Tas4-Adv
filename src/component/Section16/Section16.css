@@ -1,0 +1,5 @@
+.lk-sec17-border{
+    border: 2px dotted var(--background) !important;
+    width: 65px !important;
+    height: 65px !important;
+}

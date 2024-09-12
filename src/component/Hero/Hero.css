@@ -1,0 +1,23 @@
+.carousel-indicators [data-bs-target]{
+    width: 10px !important;
+    height:10px !important;
+    border-radius: 50% !important;
+    background-color: white !important;
+    opacity: 1 !important;
+}
+.carousel-indicators .active{
+    background-color: var(--background) !important;
+}
+.border-Hero{
+    border-top: 3px solid var(--background) !important;
+}
+.lk-slider-hero .carousel-item{
+    height: 610px !important;
+}
+.lk-hero-text{
+    height: 240px !important;
+    top: 68% !important;
+}
+.lk-slider-hero .carousel-control-next,.lk-slider-hero .carousel-control-prev{
+    top: 35%;
+}

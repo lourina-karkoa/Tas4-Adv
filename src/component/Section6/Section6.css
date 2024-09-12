@@ -1,0 +1,13 @@
+.h-sec6{
+    height: 695px;
+}
+.lk-w{
+    width: 60px !important;
+    height: 50px !important;
+    box-shadow: 0 0 8px rgba(0,0,0,0.2);
+}
+@media(max-width:768px){
+    .h-sec6{
+        height: 400px;
+    }
+}

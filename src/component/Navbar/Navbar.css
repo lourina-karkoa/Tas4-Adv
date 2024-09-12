@@ -1,0 +1,11 @@
+.h-nav{
+    height: 50px;
+}
+.wid-nav{
+    width: 150px;
+}
+@media(max-width:1200px){
+    .wid-nav{
+        width: 100px;
+    }
+}
